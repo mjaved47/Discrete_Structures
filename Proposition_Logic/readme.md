@@ -8,3 +8,9 @@ Propositions cannot be questions, general statements, demands, or hypotheses. Pr
 - Let's go.
 - x + 2 = 3
 These are not propositions.
+
+## **Connectives**
+A proposition logic can be represented using the following three connectives.
+- Conjunction (∧)
+- Disjunction (∨)
+- Negation (¬)
